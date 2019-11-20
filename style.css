@@ -5,10 +5,17 @@
 
 
 h1 {
-    text-decoration-line: underline;
+
     text-align: center;  
 }
 
+.decoration {
+    text-decoration-line: underline;    
+}
+
+h4 sup {
+    font-size: 1.1rem;
+}
 
 i {
     font-size: 2rem;  
@@ -39,4 +46,6 @@ sub>i {
     color: indigo;
 }
 
-
+.no-decoration {
+text-decoration-line: none;
+}
