@@ -23,7 +23,20 @@ i {
     text-shadow: 1px 1px gray;
 }
 
+.merchandise {
+    padding-left: 3rem;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
 
+p sup {
+    font-size: 1rem;
+    color: green;
+}
 
+sub>i {
+    font-size: 3rem;
+    color: indigo;
+}
 
 
